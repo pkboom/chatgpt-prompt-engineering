@@ -1,25 +1,28 @@
-# Install OpenAI Python library:
+# Start a new environment
 
+```sh
+conda create -n openai -c conda-forge ipykernel panel python-dotenv openai jupyter_bokeh
 ```
-!pip install openai
+
+# Remove an environment
+
+```sh
+conda remove -n openai --all
+```
+
+# Activate/Deactivate an environment
+
+```sh
+conda activate openai
+
+conda deactivate
 ```
 
 # API keys
 
 [Open ai API keys](https://platform.openai.com/account/api-keys)
 
-You can either set it as the `OPENAI_API_KEY` environment variable before using the library:
-
-```
-!export OPENAI_API_KEY='sk-...'
-```
-
-Or, set `openai.api_key` to its value:
-
-```
-import openai
-openai.api_key = "sk-..."
-```
+Set `OPENAI_API_KEY` in `.env`.
 
 # A note about the backslash
 
