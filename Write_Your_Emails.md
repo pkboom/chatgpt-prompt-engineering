@@ -1,16 +1,20 @@
-prompt
+# Categorize each email with some keywords based on sentiments, targets, etc
+
+sentiments could be positive(satisfied, grateful, impressed...) and negative(sad, unhappy, regretful...)
+targets: existing clients, team members, investors ...
+
+# prompt
 
 I’d like you to provide email responses to emails I receive.
 First, I’m going to show you some examples of how I have responded to emails in the past.
-To begin, say ‘let’s go’ and then I’ll paste an email and my response.
-When I have done that, keep responding with ‘let’s go’ until I say ‘finished.’
-After that, we’ll move to the next step in the process.
+
+# Feed examples
 
 Find multiple examples of emails and responses that you’ve exchanged with others, and group them to match your intent for a specific segment of senders. If you want ChatGPT to help you respond to potential clients, feed it with examples of emails to potential clients. If it’s existing clients, team members, investors or another group you engage with, specifically add examples of emails to these people. The more specific the better.
 
 Keep copying and pasting examples after ChatGPT types “let’s go.” I recommend at least 5 emails including greetings and sign-off wording. When you think it has enough to get a good understanding of your style, say “finished” and prepare to add the next prompt.
 
-Introduce yourself and your goals
+# Introduce yourself and your goals
 
 Send this prompt. “Now I’m going to tell you about myself. I’m a [your job title and company name] and I help [target audience] achieve [the outcome you achieve for your clients.] I do this by [how you work with your clients.]. Please say ‘received’ when you have this and I will instruct you on the next step.”
 
