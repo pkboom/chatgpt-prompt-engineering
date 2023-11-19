@@ -12,9 +12,7 @@
 
 ### Give A Clear, Descriptive, And Accurate Task
 
-### Provide Context
-
-### Provide Examples
+### Provide Context & Examples
 
 Examples will help the AI emulate a style and do exactly what you want.
 

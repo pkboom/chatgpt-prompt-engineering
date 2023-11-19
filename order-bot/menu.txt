@@ -1,0 +1,278 @@
+Miso Soup,2.50
+Wonton Soup,6.95
+Seafood Soup,7.95
+Wakame Salad,6.95
+Green Salad,5.95
+Sunomono Salad,9.95
+Spinach Salad,6.95
+Avocado Salad,6.95
+Green Salad And Miso Soup,5.95
+Steamed Rice,2.50
+Vegetables Tempura,8.95
+Shrimp & Vegetable Tempura(L),15.95
+Shrimp Tempura (4pcs),8.95
+Yam Tempura,8.95
+Veggie Gyoza 5pcs,6.95
+Beef Gyoza 5pcs,6.95
+Edamame,5.95
+Eggplant Teriyaki,7.95
+Assorted Sashimi (9pcs),13.95
+Salmon Sashimi 6pcs (appetizer),10.95
+Maguro Sashimi 6pcs (appetizer),15.95
+Sushi (6pcs),11.95
+Agedashi Tofu (8pcs),7.95
+Soft Shell Crab,13.95
+Spring Roll (5pcs),6.95
+Chicken Kara-age,10.95
+Yakidori (2pcs),10.95
+Seafood Korean Pancake,19.95
+Sunflower (rice free),14.95
+Blue Mountain Maki,14.95
+Caterpillar Maki,11.95
+Rainbow Maki,10.95
+Alaska Maki,9.95
+Skydom Maki,9.95
+Kamikaze Maki,9.95
+Peterborough Maki,8.95
+Hamachi Neki Maki,10.95
+Unagi Maki,10.95
+Salmon Maki,7.95
+California Maki,6.95
+Vancouver,11.95
+Salmon Avo Maki,7.95
+Spicy White Tuna Maki,10.95
+Orange Maki,10.95
+Crab Salad Maki,7.95
+Spicy Crab Maki,6.95
+Tuna Maki,8.95
+Tamago Maki (egg),5.95
+Ebi Maki (shrimp),6.95
+Kani Maki (crab meat),5.95
+Avocado Maki,6.95
+Kappa (cucumber),6.95
+"Avo Q (avocado, cucumber)",6.95
+Asparagus,8.95
+Mixed Vegetable Maki,7.95
+Yam Maki,6.95
+Oshinko Maki,6.95
+Crispy Maki,5.95
+HR California,4.95
+HR Tuna,6.95
+HR Salmon,5.95
+HR Hamachi,6.95
+HR Skydom,5.95
+HR Spicy Salmon,5.95
+HR Spicy Tuna,5.95
+Peterborough Maki Combo 18pcs,19.95
+Kawartha Maki Combo 20pcs,25.95
+Matsu Maki Combo 19pcs,28.95
+Veggie Maki Combo 18pcs,17.95
+[ALA] Sake (salmon) sushi,6.95
+[ALA] Tako (octopus) sushi,8.95
+[ALA] Maguro (red tuna) sushi,8.95
+[ALA] Hotatekai (scallop) sushi,9.95
+[ALA] Unagi (eel) sushi,8.95
+[ALA] Tamago (egg) sushi,5.95
+[ALA] Ebi (shrimp) sushi,6.95
+[ALA] Hokikai (clam) sushi,7.95
+[ALA] Tai (tilapia) sushi,6.95
+[ALA] Ikura (salmon roe) sushi,8.95
+[ALA] Kani (crab) sashimi,5.95
+[ALA] Hamachi (yellow tail) sushi,9.95
+[ALA] Tobiko (flying fish roe) sushi,7.95
+[ALA] Inari (fried bean curd) sushi,5.95
+Tempura Dinner,20.95
+Chicken Katsu Dinner,20.95
+Kanpunki (sweet and chili chicken),20.95
+Tangsuyuk (sweet and sour pork),20.95
+Soondubu (spicy seafood soft tofu),13.95
+Yukgaejang (spicy beef stew),14.95
+Kimchi Jjigae,14.95
+Kimchi Pork Fried Rice,15.95
+Gamjatang (pork bone soup),14.95
+Matsu Dinner Bento,25.95
+Chicken Teri Dinner Bento,25.95
+Salmon Teri Dinner Bento,25.95
+Beef Teri Dinner Bento,28.95
+Veggie Teri Dinner Bento,23.95
+Small (36pcs),43.95
+Medium (60pcs),65.95
+Large (84pcs),87.95
+X-large (100pcs),110.95
+Dynamite Maki,13.95
+Spider Maki,15.95
+Futo Maki,13.95
+Kimchi,5.95
+Takoyaki,9.95
+Butterfly Shrimp,7.95
+Salmon Rose,11.95
+Butter Fish Sashimi 6pcs (appetizer),12.95
+Sushi 6pcs(all salmon),11.95
+Spicy Salmon Pizza,12.95
+Spicy Crab Pizza,12.95
+Spicy Tuna Pizza,13.95
+Salmon Pizza,12.95
+Crab Pizza,12.95
+Avocado Pizza,12.95
+Ebi Shumai,6.95
+Shrimp Teriyaki,10.95
+Stir Fried Mushroom,10.95
+Okonomiyaki,11.95
+LA Kalbi,17.95
+Japchae Veggie,8.95
+Spicy Rice Cake,14.95
+[ALA] Escola (butter fish) sushi,7.95
+Rocky Mountain Maki,11.95
+White Cali,7.95
+Red Cali,7.95
+Yellow Cali(deep-fried california),8.95
+Crispy Salmon,7.95
+Crispy Tuna,8.95
+In-spicy Salmon Maki,6.95
+In-spicy Tuna Maki,7.95
+Top-spicy Salmon Maki,8.95
+Top-spicy Tuna Maki,9.95
+Avocream,7.95
+Yamcream,7.95
+Mango Veggie,7.95
+Volcano Veggie,8.95
+Garden 10pcs,12.95
+Green Field 10pcs,12.95
+Philadelphia Maki,14.95
+Crispy Philadelphia,15.95
+Chicken Teriyaki Maki,13.95
+Giant Maki,13.95
+Bulgogi Maki,14.95
+Pink Lady Maki,13.95
+Hunter Maki,13.95
+Moon Maki,15.95
+Rose Maki,13.95
+Double Dynamite,15.95
+West Coast Maki 8pcs,10.95
+Ottawa,16.95
+Whisler Maki,16.95
+Olympic Maki,16.95
+Bill Maki,14.95
+Ultimate Maki,18.95
+Lobster Maki,19.95
+Mango Dragon,15.95
+Green Dragon,15.95
+White Dragon,16.95
+Golden Dragon,15.95
+Red Dragon,16.95
+Sattu Dragon,16.95
+Rainbow Dragon,16.95
+Black Dragon,17.95
+Fire Dragon,16.95
+Veggie Udon Soup,13.95
+Beef Udon Soup,17.95
+Chicken Udon Soup,16.95
+Seafood Udon Soup,16.95
+Tempura Udon,17.95
+Chicken Katsu Udon,16.95
+Pork Katsu Udon,16.95
+Nabe Udon,17.95
+Veggie Yaki Udon,13.95
+Beef Yaki Udon,16.95
+Chicken Yaki Udon,15.95
+Seafood Yaki Udon,15.95
+Veggie Yaki Soba,13.95
+Chicken Yaki Soba,15.95
+Seafood Yaki Soba,15.95
+Spicy Seafood Noodle Soup (jjampong),16.95
+Veggie Ramen,13.95
+Chicken Ramen,15.95
+Seafood Ramen,15.95
+Tofu Teriyaki Dinner,18.95
+Salmon Teriyaki Dinner,22.95
+Chicken Teriyaki Dinner,22.95
+Bulgogi Dinner,23.95
+Beef Teriyaki Dinner,26.95
+Kalbi Dinner,28.95
+Spicy Pork(jeyuk),22.95
+Spicy Chicken(buldak),22.95
+Chicken Donburi,15.95
+Bulgogi Donburi,16.95
+Veggie Donburi,14.95
+Salmon Donburi,16.95
+Unagi Donburi,21.95
+Chicken Katsu Donburi,16.95
+Pork Katsu Donburi,16.95
+Sashimi Bibimbap,16.95
+Dolsot Bibimbap,15.95
+Budae Jjigae,27.95
+Veggie Fried Rice,13.95
+Chicken Fried Rice,15.95
+Shrimp Fried Rice,15.95
+Pork Katsu Dinner,20.95
+Bulgogi Dinner Bento,25.95
+Sashimi Dinner,24.95
+Matsu Sushi Dinner,21.95
+Chirashi Dinner,23.95
+Spicy Maki Combo 18pcs,19.95
+HR Spicy Crab,4.95
+Love Boat,38.95
+Xoxo Boat,49.95
+Spicy Agedashi Tofu (8pcs),7.95
+Lobster Tempura Dinner,26.95
+[ALA] Saba(mackerel) Sushi,8.95
+[ALA] Saba(mackerel) sashimi,8.95
+Jajangmyun,14.95
+HR Spicy Scallop,6.95
+Shiitake Maki,6.95
+Springroll Maki,6.95
+Veggie Futo Maki 10pcs,12.95
+Veggie Green Dragon 10pcs,13.95
+Blue Jays Maki,14.95
+Trent Combo,20.95
+Fleming Combo,20.95
+Soju Grapefruit,20.95
+Budweiser 500ml,5.95
+Bud Light 500ml,5.95
+Canadian,5.95
+Coors Light,5.95
+Heineken 500ml,6.95
+Black Asahi 334ml,7.50
+Sapporo 500ml,9.95
+Hot Sake 5oz,6.95
+Hakutsuru Cold Sake 300ml,15.95
+Mio Premium Sparkling Sake 300ml,29.95
+Sho Chiku Bai Premium Ginjo Sake 300ml,29.95
+Pearl Maki,13.95
+Veggie Teri Lunch (11:30~3pm),12.95
+Volcano Sweet Potato Fries,8.95
+Eel Sauce 1oz,1.00
+Spicy Mayo 2oz,1.00
+Soju Apple,20.95
+Soju Yogurt,20.95
+Kani Tempura 6pcs,8.95
+Soju Peach,20.95
+Tempura Sauce 2oz,1.00
+Diet Pepsi,1.95
+[ALA] Unagi (eel) sashimi,8.95
+[ALA] Tobiko (flying fish roe) sashimi,7.95
+[ALA] Tamago (egg) sashimi,5.95
+[ALA] Tako (octopus) sashimi,8.95
+[ALA] Tai (tilapia) sashmi,6.95
+[ALA] Sake (salmon) sashmi,6.95
+[ALA] Maguro (red tuna) sashimi,8.95
+[ALA] Kani (crab) sushi,5.95
+[ALA] Inari (fried bean curd) sashmi,5.95
+[ALA] Ikura (salmon roe) sashmi,8.95
+[ALA] Hotatekai (scallop) sashmi,9.95
+[ALA] Hokikai (clam) sashmi,7.95
+[ALA] Hamachi (yellow tail) sashmi,9.95
+[ALA] Escola (butter fish) sashmi,7.95
+[ALA] Ebi (shrimp) sashmi,6.95
+[ALA] Ika (squid) sushi,7.95
+[ALA] Ika (squid) sashimi,7.95
+Spicy California,7.50
+Hunter Sushi Dinner,25.95
+HR Crispy Salmon,5.95
+HR Crispy Tuna,5.95
+So Mien Noodle Soup,5.95
+Spring Salad,5.95
+Calamari,10.95
+Boston Maki,15.95
+Spicy Cheese Bomb,8.95
+Spicy Salmon Bomb,7.95
